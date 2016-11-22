@@ -33,7 +33,7 @@ def getProductData(url):
 def getURL():
     url = "http://www.amazon.com/dp/" # Can be update to country domain
 
-    # Array list of products, asin number from Amazon's site for the product : https://www.amazon.com/dp/B00X4WHP5E
+    # Array list of products, ASIN from Amazon's site for the product : https://www.amazon.com/dp/B00X4WHP5E
     # Example : productList = ["B01DFKC2SO","B00X4WHP5E"]
     productList = ""
         
